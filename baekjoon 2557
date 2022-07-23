@@ -1,0 +1,7 @@
+// Baekjoon 2557 C++17
+
+#include<stdio.h>
+
+main(){
+    printf("Hello World!");
+}
